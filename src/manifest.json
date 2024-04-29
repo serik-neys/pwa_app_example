@@ -1,0 +1,17 @@
+{
+    "theme_color": "#e7e4ec",
+    "background_color": "#2EC6FE",
+    "icons": [
+        {
+            "sizes": "512x512",
+            "src": "icon/ai-news.png",
+            "type": "image/png"
+        }
+    ],
+    "orientation": "portrait",
+    "display": "standalone",
+    "lang": "ru-RU",
+    "name": "NEWS",
+    "short_name": "MS PWA",
+    "start_url": "."
+}
